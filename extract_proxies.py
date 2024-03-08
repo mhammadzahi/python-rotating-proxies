@@ -1,5 +1,6 @@
 import csv
 
+
 def read_csv_and_create_2d_list(csv_file_path):
     result_2d_list = []
 
